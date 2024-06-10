@@ -5,8 +5,6 @@ I am a full-stack developer and a virtual reality developer from India. Currentl
 - 🧑‍💼 I work with technologies such as Unity (To create Virtual Reality modules and other stuff) React and NextJs (for frontend)  
 - 🌱 I’m currently learning GraphQL and NextJs by building a Twitter clone. 
 - 👯 I’m looking to collaborate on projects in education and online learning. 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: www.twitter.com/manavslab
 -->
 
