@@ -1,16 +1,13 @@
 # Hi I am Manav 👋
 
-I am a full-stack developer and a virtual reality developer from India. Currently, I am running a company called Atomlabs and we are building Crestnx.com - a platform for industries to train their employees using Virtual reality. 
+I am a full-stack developer and a virtual reality developer from India. Currently, I am running a company called Atomlabs and we are building Crestnx.com - a platform for industries to train and track their employees using Virtual reality. 
 
-- 🔭 I’m working on CrestNX- Platform for industries to train using Virtual Reality. You can learn more about it here www.crestnx.com
 - 🧑‍💼 I work with technologies such as Unity (To create Virtual Reality modules and other stuff) React and NextJs (for frontend)  
-- 🌱 I’m currently learning GraphQL and NextJs
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning GraphQL and NextJs by building a Twitter clone. 
+- 👯 I’m looking to collaborate on projects in education and online learning. 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: www.twitter.com/manavslab
 -->
 
 <h3 align="left">Languages and Tools:</h3>
