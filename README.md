@@ -39,20 +39,7 @@ I'm a passionate full-stack developer and XR enthusiast with a knack for buildin
 3. **Plotagon Integration:** Enhanced interactive storytelling platform using React, Node.js, AWS, GCP, and Unity
 4. **Z-Cut Movie Maker:** Integrated Zepeto Metaverse for creating personalized animated content
 
-## 🎓 Education
-
-**Bachelor of Technology in Mechanical Engineering**  
-Vellore Institute of Technology, Vellore (Graduated June 2021)  
-CGPA: 8.97
-
-## 📊 GitHub Stats
-
-![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=manavlakhadive&show_icons=true&theme=radical)
-
 ## 📫 Let's Connect!
 
 Feel free to reach out for collaborations or just a chat about technology and innovation!
-
-- 📧 Email: manavlakhadive99@gmail.com
 - 🌐 Website: [manavslab.com](https://manavslab.com)
-- 📱 Phone: +91 9970755448
