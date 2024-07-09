@@ -1,6 +1,6 @@
 # Manav Lakhadive
 
-👨‍💻 Full-Stack Developer | 🚀 XR Enthusiast
+👨‍💻 Full-Stack Developer | 🚀 XR and Unity Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/manavlakhadive)
 [![Website](https://img.shields.io/badge/Website-Visit-green)](https://manavslab.com)
@@ -22,7 +22,7 @@ I'm a passionate full-stack developer and XR enthusiast with a knack for buildin
 
 ### Co-founder & CEO at Atomalabs Private Limited (Aug 2022 - Jun 2024)
 
-- Developed CrestNX, an innovative industrial training solution using VR and spatial computing
+- Developed www.crestnx.com , an innovative industrial training solution using VR and spatial computing
 - Led a team of 12 across various segments, serving international clients
 - Contributed to projects for Plotagon, Asian Paints, Z-Cut Movie Maker, and more
 
