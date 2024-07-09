@@ -1,6 +1,6 @@
 # Manav Lakhadive
 
-👨‍💻 Full-Stack Developer | 🚀 XR Enthusiast | 🎓 Mechanical Engineer
+👨‍💻 Full-Stack Developer | 🚀 XR Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/manavlakhadive)
 [![Website](https://img.shields.io/badge/Website-Visit-green)](https://manavslab.com)
