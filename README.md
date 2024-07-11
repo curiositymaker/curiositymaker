@@ -20,7 +20,7 @@ I'm a passionate full-stack developer and XR enthusiast with a knack for buildin
 
 ## 💼 Professional Experience
 
-### Co-founder & CEO at Atomalabs Private Limited (Aug 2022 - Jun 2024)
+### Co-founder at Atomalabs Private Limited (Aug 2022 - Jun 2024)
 
 - Developed www.crestnx.com , an innovative industrial training solution using VR and spatial computing
 - Led a team of 12 across various segments, serving international clients
